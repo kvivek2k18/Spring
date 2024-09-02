@@ -1,0 +1,14 @@
+my:
+  app:
+    host: smp.gmail.com
+    port: 885
+    username: sample
+    password: vivek
+    protocols:
+      -SMTP
+      -SMTPS
+      -SMTP2
+    headers:
+      modified: true
+      version: 3.2
+      content: json					
